@@ -1,3 +1,5 @@
+## NOTE:The code output & plots are visible in "PA1_template.md" on GitHub.
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
